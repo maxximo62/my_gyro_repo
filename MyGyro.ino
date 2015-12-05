@@ -1,4 +1,5 @@
 //Arduino 1.0+ only
+// versione dummy
 
 #include <Wire.h>
 
